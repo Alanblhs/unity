@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "751698081221",
+    "firebase_url": "https://vidas-movil-default-rtdb.firebaseio.com",
+    "project_id": "vidas-movil",
+    "storage_bucket": "vidas-movil.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751698081221:android:7f89678b3e1730d59547ac",
+        "android_client_info": {
+          "package_name": "com.alexis.nuevevidas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRAJOiBoBoRDMCZIH7HcadyLIiRYHJhG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
