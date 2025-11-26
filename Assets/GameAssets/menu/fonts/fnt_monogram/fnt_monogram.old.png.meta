@@ -1,0 +1,2145 @@
+fileFormatVersion: 2
+guid: ffc324256c71f9447beabcc5d1543d09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1176924893587711556
+    second: fnt_monogram.old_0
+  - first:
+      213: 8818888651182147124
+    second: fnt_monogram.old_1
+  - first:
+      213: -8186963218130587273
+    second: fnt_monogram.old_2
+  - first:
+      213: -2496388570325642468
+    second: fnt_monogram.old_3
+  - first:
+      213: 6392961287134347190
+    second: fnt_monogram.old_4
+  - first:
+      213: -922752302314171232
+    second: fnt_monogram.old_5
+  - first:
+      213: -6434069600566125428
+    second: fnt_monogram.old_6
+  - first:
+      213: 698459567562335703
+    second: fnt_monogram.old_7
+  - first:
+      213: 8580957671327607160
+    second: fnt_monogram.old_8
+  - first:
+      213: -2502101695260983356
+    second: fnt_monogram.old_9
+  - first:
+      213: -5955046552488042085
+    second: fnt_monogram.old_10
+  - first:
+      213: 5964164990960044090
+    second: fnt_monogram.old_11
+  - first:
+      213: 5977692561936813875
+    second: fnt_monogram.old_12
+  - first:
+      213: 7161504415467912073
+    second: fnt_monogram.old_13
+  - first:
+      213: -8396035183934154949
+    second: fnt_monogram.old_14
+  - first:
+      213: -254262363483910420
+    second: fnt_monogram.old_15
+  - first:
+      213: 2958212854328596941
+    second: fnt_monogram.old_16
+  - first:
+      213: 2793793156107404253
+    second: fnt_monogram.old_17
+  - first:
+      213: -7091652703861559498
+    second: fnt_monogram.old_18
+  - first:
+      213: -6696105816235454583
+    second: fnt_monogram.old_19
+  - first:
+      213: 5533911486997596764
+    second: fnt_monogram.old_20
+  - first:
+      213: 8842105211413597444
+    second: fnt_monogram.old_21
+  - first:
+      213: -4325926267612951232
+    second: fnt_monogram.old_22
+  - first:
+      213: -6951883740763174792
+    second: fnt_monogram.old_23
+  - first:
+      213: 8753471073710913712
+    second: fnt_monogram.old_24
+  - first:
+      213: -1067371177394430364
+    second: fnt_monogram.old_25
+  - first:
+      213: -4608037287157422608
+    second: fnt_monogram.old_26
+  - first:
+      213: -5470440168265994029
+    second: fnt_monogram.old_27
+  - first:
+      213: -261133777243143636
+    second: fnt_monogram.old_28
+  - first:
+      213: -2647273592074956880
+    second: fnt_monogram.old_29
+  - first:
+      213: -7824445626215314153
+    second: fnt_monogram.old_30
+  - first:
+      213: 4515537248379439024
+    second: fnt_monogram.old_31
+  - first:
+      213: 1180523880982488025
+    second: fnt_monogram.old_32
+  - first:
+      213: -5798378569259919445
+    second: fnt_monogram.old_33
+  - first:
+      213: 4569404639490284084
+    second: fnt_monogram.old_34
+  - first:
+      213: -6803695528336060817
+    second: fnt_monogram.old_35
+  - first:
+      213: -4864558554954144942
+    second: fnt_monogram.old_36
+  - first:
+      213: -8212667416821985420
+    second: fnt_monogram.old_37
+  - first:
+      213: -1474515158740959621
+    second: fnt_monogram.old_38
+  - first:
+      213: -808798415956273437
+    second: fnt_monogram.old_39
+  - first:
+      213: 1254984329944053210
+    second: fnt_monogram.old_40
+  - first:
+      213: -1728734399895061109
+    second: fnt_monogram.old_41
+  - first:
+      213: 7286256406439971098
+    second: fnt_monogram.old_42
+  - first:
+      213: 2442465649831926166
+    second: fnt_monogram.old_43
+  - first:
+      213: 5647174782677247228
+    second: fnt_monogram.old_44
+  - first:
+      213: -3703555346229538331
+    second: fnt_monogram.old_45
+  - first:
+      213: 404061077553064897
+    second: fnt_monogram.old_46
+  - first:
+      213: 197880891453515269
+    second: fnt_monogram.old_47
+  - first:
+      213: -3605600272900843362
+    second: fnt_monogram.old_48
+  - first:
+      213: -977322868880194637
+    second: fnt_monogram.old_49
+  - first:
+      213: 8908694663562685772
+    second: fnt_monogram.old_50
+  - first:
+      213: 7313298194448389855
+    second: fnt_monogram.old_51
+  - first:
+      213: 5686355033370329686
+    second: fnt_monogram.old_52
+  - first:
+      213: 1078177913313921360
+    second: fnt_monogram.old_53
+  - first:
+      213: 7303715563700249928
+    second: fnt_monogram.old_54
+  - first:
+      213: -299417677592014683
+    second: fnt_monogram.old_55
+  - first:
+      213: 7833439707555591259
+    second: fnt_monogram.old_56
+  - first:
+      213: -5479256928519544818
+    second: fnt_monogram.old_57
+  - first:
+      213: 2485790689403465216
+    second: fnt_monogram.old_58
+  - first:
+      213: 8572088427023036157
+    second: fnt_monogram.old_59
+  - first:
+      213: -1064260294958946206
+    second: fnt_monogram.old_60
+  - first:
+      213: 992530336696571099
+    second: fnt_monogram.old_61
+  - first:
+      213: 822539410612513152
+    second: fnt_monogram.old_62
+  - first:
+      213: 3628216810773598989
+    second: fnt_monogram.old_63
+  - first:
+      213: 7079662035086427046
+    second: fnt_monogram.old_64
+  - first:
+      213: 2577390915353888994
+    second: fnt_monogram.old_65
+  - first:
+      213: 5352150996677619419
+    second: fnt_monogram.old_66
+  - first:
+      213: 7684847491564520867
+    second: fnt_monogram.old_67
+  - first:
+      213: -4256781466906080744
+    second: fnt_monogram.old_68
+  - first:
+      213: 5882573345829781467
+    second: fnt_monogram.old_69
+  - first:
+      213: 5914190512917234236
+    second: fnt_monogram.old_70
+  - first:
+      213: -5297513380117014195
+    second: fnt_monogram.old_71
+  - first:
+      213: 1700232113535708195
+    second: fnt_monogram.old_72
+  - first:
+      213: -5166117640038737361
+    second: fnt_monogram.old_73
+  - first:
+      213: 5913817631805333042
+    second: fnt_monogram.old_74
+  - first:
+      213: 7713491486780198772
+    second: fnt_monogram.old_75
+  - first:
+      213: -1012639554037130644
+    second: fnt_monogram.old_76
+  - first:
+      213: 2782881874695010759
+    second: fnt_monogram.old_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fnt_monogram.old_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9d36e7b09baafe0800000000000000
+      internalID: -1176924893587711556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4368f67f08cf26a70800000000000000
+      internalID: 8818888651182147124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771332a5450126e80800000000000000
+      internalID: -8186963218130587273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13156c52db0b5dd0800000000000000
+      internalID: -2496388570325642468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf77765b6c58b850800000000000000
+      internalID: 6392961287134347190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 116
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4d3e48ba9b133f0800000000000000
+      internalID: -922752302314171232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 111
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cdd1699c795b6a0800000000000000
+      internalID: -6434069600566125428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5a68ea64d61b900800000000000000
+      internalID: 698459567562335703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8792528c98fa51770800000000000000
+      internalID: 8580957671327607160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cff01ec3cfb64dd0800000000000000
+      internalID: -2502101695260983356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91290236bc6b5da0800000000000000
+      internalID: -5955046552488042085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a388ef3b578f4c250800000000000000
+      internalID: 5964164990960044090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f0db2c6b705f250800000000000000
+      internalID: 5977692561936813875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b3b559256c26360800000000000000
+      internalID: 7161504415467912073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b375cebfb7a4b7b80800000000000000
+      internalID: -8396035183934154949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee4ac04abda87cf0800000000000000
+      internalID: -254262363483910420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc91040faeead0920800000000000000
+      internalID: 2958212854328596941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 110
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd303b5c21c85c620800000000000000
+      internalID: 2793793156107404253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fa4e36073659d90800000000000000
+      internalID: -7091652703861559498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_19
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fcbd4dc37a213a0800000000000000
+      internalID: -6696105816235454583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a02f07d276ccc40800000000000000
+      internalID: 5533911486997596764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 111
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d00f0a7d775ba70800000000000000
+      internalID: 8842105211413597444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_22
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d0666baf837f3c0800000000000000
+      internalID: -4325926267612951232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_23
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8784ff70292f58f90800000000000000
+      internalID: -6951883740763174792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8323c40939a7970800000000000000
+      internalID: 8753471073710913712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 91
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e1aefb19fef21f0800000000000000
+      internalID: -1067371177394430364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f52a337086fc00c0800000000000000
+      internalID: -4608037287157422608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_27
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 91
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d03a7d86a71514b0800000000000000
+      internalID: -5470440168265994029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 91
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2201909634406cf0800000000000000
+      internalID: -261133777243143636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 91
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf8911a1bef24bd0800000000000000
+      internalID: -2647273592074956880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_30
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 91
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dc31d982cf96390800000000000000
+      internalID: -7824445626215314153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b783bbf3396aae30800000000000000
+      internalID: 4515537248379439024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 88
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3a3de0730126010800000000000000
+      internalID: 1180523880982488025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 91
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba756029965088fa0800000000000000
+      internalID: -5798378569259919445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_34
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 91
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a17d35f49c96f30800000000000000
+      internalID: 4569404639490284084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 91
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e8d99e6fa6491a0800000000000000
+      internalID: -6803695528336060817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_36
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 91
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253eede84cd9d7cb0800000000000000
+      internalID: -4864558554954144942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_37
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 91
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f86e93f7eb60e80800000000000000
+      internalID: -8212667416821985420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_38
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 88
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ef0538648798be0800000000000000
+      internalID: -1474515158740959621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 91
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6170a302296c4f0800000000000000
+      internalID: -808798415956273437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 91
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad53ff059999a6110800000000000000
+      internalID: 1254984329944053210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_41
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 91
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8db147f83d4208e0800000000000000
+      internalID: -1728734399895061109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_42
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 91
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19c440f89bfd1560800000000000000
+      internalID: 7286256406439971098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_43
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 91
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699535a519165e120800000000000000
+      internalID: 2442465649831926166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_44
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 91
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4650a7b8bce5e40800000000000000
+      internalID: 5647174782677247228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_45
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 91
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e15dfde8045a9cc0800000000000000
+      internalID: -3703555346229538331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 91
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbac13c8638b9500800000000000000
+      internalID: 404061077553064897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 91
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506ace25f930fb200800000000000000
+      internalID: 197880891453515269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_48
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 90
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9891b3b7a556fdc0800000000000000
+      internalID: -3605600272900843362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_49
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 91
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3c781670adf62f0800000000000000
+      internalID: -977322868880194637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d6212a89a02ab70800000000000000
+      internalID: 8908694663562685772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_51
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 71
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd61a98d5fd0e7560800000000000000
+      internalID: 7313298194448389855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_52
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6520bc676cdf9ee40800000000000000
+      internalID: 5686355033370329686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0598fb7891576fe00800000000000000
+      internalID: 1078177913313921360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_54
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 71
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84568d2cb920c5560800000000000000
+      internalID: 7303715563700249928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_55
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 72
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0d7a7653148dbf0800000000000000
+      internalID: -299417677592014683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_56
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b547a4229e7f5bc60800000000000000
+      internalID: 7833439707555591259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_57
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00ae769ad4c5f3b0800000000000000
+      internalID: -5479256928519544818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_58
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eedd3367d4f7220800000000000000
+      internalID: 2485790689403465216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_59
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfee1fbe10d26f670800000000000000
+      internalID: 8572088427023036157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_60
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2686b6286ecfa31f0800000000000000
+      internalID: -1064260294958946206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_61
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd41993251d26cd00800000000000000
+      internalID: 992530336696571099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_62
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08961576c3f3a6b00800000000000000
+      internalID: 822539410612513152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_63
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03d24e57f30a5230800000000000000
+      internalID: 3628216810773598989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_64
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3452b7c13004260800000000000000
+      internalID: 7079662035086427046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_65
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8ccf4c16bb4c320800000000000000
+      internalID: 2577390915353888994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_66
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdee83d79f8a64a40800000000000000
+      internalID: 5352150996677619419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_67
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a541c7d31016aa60800000000000000
+      internalID: 7684847491564520867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_68
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ac89a2fcfdce4c0800000000000000
+      internalID: -4256781466906080744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_69
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf7d537a4913a150800000000000000
+      internalID: 5882573345829781467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_70
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32ca60dfec631250800000000000000
+      internalID: 5914190512917234236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_71
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d491f31f5a37b76b0800000000000000
+      internalID: -5297513380117014195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_72
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ce10b5910789710800000000000000
+      internalID: 1700232113535708195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_73
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a9c9da0634e48b0800000000000000
+      internalID: -5166117640038737361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_74
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 72
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ed23aadc9121250800000000000000
+      internalID: 5913817631805333042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 52
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f888fa3a3db0b60800000000000000
+      internalID: 7713491486780198772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_76
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 50
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a5b18d0b162f1f0800000000000000
+      internalID: -1012639554037130644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnt_monogram.old_77
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 48
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9b1191258ce9620800000000000000
+      internalID: 2782881874695010759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fnt_monogram.old_0: -1176924893587711556
+      fnt_monogram.old_1: 8818888651182147124
+      fnt_monogram.old_10: -5955046552488042085
+      fnt_monogram.old_11: 5964164990960044090
+      fnt_monogram.old_12: 5977692561936813875
+      fnt_monogram.old_13: 7161504415467912073
+      fnt_monogram.old_14: -8396035183934154949
+      fnt_monogram.old_15: -254262363483910420
+      fnt_monogram.old_16: 2958212854328596941
+      fnt_monogram.old_17: 2793793156107404253
+      fnt_monogram.old_18: -7091652703861559498
+      fnt_monogram.old_19: -6696105816235454583
+      fnt_monogram.old_2: -8186963218130587273
+      fnt_monogram.old_20: 5533911486997596764
+      fnt_monogram.old_21: 8842105211413597444
+      fnt_monogram.old_22: -4325926267612951232
+      fnt_monogram.old_23: -6951883740763174792
+      fnt_monogram.old_24: 8753471073710913712
+      fnt_monogram.old_25: -1067371177394430364
+      fnt_monogram.old_26: -4608037287157422608
+      fnt_monogram.old_27: -5470440168265994029
+      fnt_monogram.old_28: -261133777243143636
+      fnt_monogram.old_29: -2647273592074956880
+      fnt_monogram.old_3: -2496388570325642468
+      fnt_monogram.old_30: -7824445626215314153
+      fnt_monogram.old_31: 4515537248379439024
+      fnt_monogram.old_32: 1180523880982488025
+      fnt_monogram.old_33: -5798378569259919445
+      fnt_monogram.old_34: 4569404639490284084
+      fnt_monogram.old_35: -6803695528336060817
+      fnt_monogram.old_36: -4864558554954144942
+      fnt_monogram.old_37: -8212667416821985420
+      fnt_monogram.old_38: -1474515158740959621
+      fnt_monogram.old_39: -808798415956273437
+      fnt_monogram.old_4: 6392961287134347190
+      fnt_monogram.old_40: 1254984329944053210
+      fnt_monogram.old_41: -1728734399895061109
+      fnt_monogram.old_42: 7286256406439971098
+      fnt_monogram.old_43: 2442465649831926166
+      fnt_monogram.old_44: 5647174782677247228
+      fnt_monogram.old_45: -3703555346229538331
+      fnt_monogram.old_46: 404061077553064897
+      fnt_monogram.old_47: 197880891453515269
+      fnt_monogram.old_48: -3605600272900843362
+      fnt_monogram.old_49: -977322868880194637
+      fnt_monogram.old_5: -922752302314171232
+      fnt_monogram.old_50: 8908694663562685772
+      fnt_monogram.old_51: 7313298194448389855
+      fnt_monogram.old_52: 5686355033370329686
+      fnt_monogram.old_53: 1078177913313921360
+      fnt_monogram.old_54: 7303715563700249928
+      fnt_monogram.old_55: -299417677592014683
+      fnt_monogram.old_56: 7833439707555591259
+      fnt_monogram.old_57: -5479256928519544818
+      fnt_monogram.old_58: 2485790689403465216
+      fnt_monogram.old_59: 8572088427023036157
+      fnt_monogram.old_6: -6434069600566125428
+      fnt_monogram.old_60: -1064260294958946206
+      fnt_monogram.old_61: 992530336696571099
+      fnt_monogram.old_62: 822539410612513152
+      fnt_monogram.old_63: 3628216810773598989
+      fnt_monogram.old_64: 7079662035086427046
+      fnt_monogram.old_65: 2577390915353888994
+      fnt_monogram.old_66: 5352150996677619419
+      fnt_monogram.old_67: 7684847491564520867
+      fnt_monogram.old_68: -4256781466906080744
+      fnt_monogram.old_69: 5882573345829781467
+      fnt_monogram.old_7: 698459567562335703
+      fnt_monogram.old_70: 5914190512917234236
+      fnt_monogram.old_71: -5297513380117014195
+      fnt_monogram.old_72: 1700232113535708195
+      fnt_monogram.old_73: -5166117640038737361
+      fnt_monogram.old_74: 5913817631805333042
+      fnt_monogram.old_75: 7713491486780198772
+      fnt_monogram.old_76: -1012639554037130644
+      fnt_monogram.old_77: 2782881874695010759
+      fnt_monogram.old_8: 8580957671327607160
+      fnt_monogram.old_9: -2502101695260983356
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
